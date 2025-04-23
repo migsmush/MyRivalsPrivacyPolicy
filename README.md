@@ -19,6 +19,5 @@ Our app does not collect any information from anyone, including children under t
 ## Changes to This Privacy Policy
 If any future updates introduce features that require data collection, this privacy policy will be updated accordingly, and users will be notified through the app.
 
-#Contact
-If you have any questions or concerns about this privacy policy, feel free to reach out to the developer of MyRivals directly
-
+# Contact
+If you have any questions or concerns about this privacy policy, feel free to make a post on our support page found here: https://github.com/migsmush/MyRivalsSupport
